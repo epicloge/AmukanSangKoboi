@@ -6,11 +6,12 @@ At the same time, the enemy cowboy will try to aim for your head as well.
 Both the cowboy and the player have 5 life points, and the last one to survive will win.
 
 The files included are:
-hand_detector.py - A code that detects the gun gesture and allows the testing of the shooting function
-BulletGameUI.py - A code that shows the user interface of our game, with all the assets we used
-EnemyPopUp.py - A code that shows the enemy moving around the screen and aiming and shooting at the user
-ASK.py - Our complete game code, with the integration of our functions and game logic
-ASK_game.py - Our game code, combined with the start screen GUI
+1. hand_detector.py - A code that detects the gun gesture and allows the testing of the shooting function
+2. BulletGameUI.py - A code that shows the user interface of our game, with all the assets we used
+3. EnemyPopUp.py - A code that shows the enemy moving around the screen and aiming and shooting at the user
+4. ASK.py - Our complete game code, with the integration of our functions and game logic
+5. ASK_game.py - Our game code, combined with the start screen GUI
+
 All the assets used in our game are inside the ASK file, which include audio tracks and images
 
 ## HOW TO PLAY ##
